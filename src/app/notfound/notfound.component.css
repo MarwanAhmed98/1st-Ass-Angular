@@ -1,0 +1,24 @@
+.NotFound{
+    text-align: center;
+}
+h1{
+    font-size: 186px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #dee2e6;
+    font-family: "Titillium Web", serif;
+}
+h2{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+a{
+    background-color: #5c91fe;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-family: "Titillium Web", serif;
+}
+a:hover{
+    opacity: 0.8
+}
